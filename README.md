@@ -14,7 +14,7 @@ A ROS 2 project where a TurtleBot3 robot navigates and follows human commands (k
 
 ## 🛠️ Tech Stack
 
-- ROS 2 Jazzy
+- ROS 2 Humble
 - Gazebo 11
 - Python 3 (ROS 2 nodes)
 - GitHub + colcon workspace
