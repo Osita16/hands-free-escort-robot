@@ -1,6 +1,6 @@
 # 🤖 Hands-Free Escort Robot
 
-A ROS 2 project where a TurtleBot3 robot navigates and follows human commands (keyboard or future voice control) in a Gazebo world. Built using ROS 2 Jazzy, this project is beginner-friendly and simulates an escort robot for use in shopping malls, airports, and hospitals.
+A ROS 2 project where a TurtleBot3 robot navigates and follows human commands (keyboard or future voice control) in a Gazebo world. Built using ROS 2 Humble, this project is beginner-friendly and simulates an escort robot for use in shopping malls, airports, and hospitals.
 
 ## 🚀 Features
 
